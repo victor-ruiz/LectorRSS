@@ -1,0 +1,1 @@
+/home/victor/Escritorio/Appcelerator_Studio_Workspace/LectorRSS/Resources/app.js
